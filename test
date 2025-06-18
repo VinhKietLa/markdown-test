@@ -1,0 +1,194 @@
+{
+  "Background": {
+    "Dark": {
+      "$type": "color",
+      "$value": "#1C1C1E"
+    }
+  },
+  "Body": {
+    "$type": "typography",
+    "$value": {
+      "fontSize": "24px",
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "lineHeight": 1.21,
+      "letterSpacing": "0px"
+    }
+  },
+  "H1": {
+    "$type": "typography",
+    "$value": {
+      "fontSize": "28px",
+      "fontFamily": "Segoe UI Variable",
+      "fontWeight": 500,
+      "lineHeight": 0.75,
+      "letterSpacing": "0px"
+    }
+  },
+  "H3": {
+    "$type": "typography",
+    "$value": {
+      "fontSize": "21px",
+      "fontFamily": "Segoe UI Variable",
+      "fontWeight": 500,
+      "lineHeight": 1,
+      "letterSpacing": "0px"
+    }
+  },
+  "H4": {
+    "$type": "typography",
+    "$value": {
+      "fontSize": "17.5px",
+      "fontFamily": "Segoe UI Variable",
+      "fontWeight": 500,
+      "lineHeight": 1.2,
+      "letterSpacing": "0px"
+    }
+  },
+  "H6": {
+    "$type": "typography",
+    "$value": {
+      "fontSize": "14px",
+      "fontFamily": "Segoe UI Variable",
+      "fontWeight": 500,
+      "lineHeight": 1.5,
+      "letterSpacing": "0px"
+    }
+  },
+  "Heading": {
+    "$type": "typography",
+    "$value": {
+      "fontSize": "64px",
+      "fontFamily": "Inter",
+      "fontWeight": 900,
+      "lineHeight": 1.21,
+      "letterSpacing": "0px"
+    }
+  },
+  "Subheading": {
+    "$type": "typography",
+    "$value": {
+      "fontSize": "20px",
+      "fontFamily": "Inter",
+      "fontWeight": 800,
+      "lineHeight": 1.21,
+      "letterSpacing": "0.2px"
+    }
+  },
+  "Text": {
+    "Light": {
+      "$type": "color",
+      "$value": "#FFFFFF"
+    }
+  },
+  "act-bg": {
+    "$type": "color",
+    "$value": "#FFFFFF"
+  },
+  "act-close-fg": {
+    "$type": "color",
+    "$value": "#5C6770"
+  },
+  "act-fg": {
+    "$type": "color",
+    "$value": "#0570C7"
+  },
+  "app-regular-line": {
+    "$type": "color",
+    "$value": "#C7CDD1"
+  },
+  "app-screen-container-bg": {
+    "$type": "color",
+    "$value": "#E3E6E8"
+  },
+  "app-screen-container-line": {
+    "$type": "color",
+    "$value": "#ABB3BA"
+  },
+  "bg-dark": {
+    "$type": "color",
+    "$value": "#15253E"
+  },
+  "bg-light": {
+    "$type": "color",
+    "$value": "#F5F5F5"
+  },
+  "bg-white": {
+    "$type": "color",
+    "$value": "#FFFFFF"
+  },
+  "ctt-item-bg": {
+    "$type": "color",
+    "$value": "#FFFFFF"
+  },
+  "ctt-regular-line": {
+    "$type": "color",
+    "$value": "#C7CDD1"
+  },
+  "ctt-text-placeholder-fg": {
+    "$type": "color",
+    "$value": "#9DA7AF"
+  },
+  "ctt-text-primary-fg": {
+    "$type": "color",
+    "$value": "#22272A"
+  },
+  "d-act-bg": {
+    "$type": "color",
+    "$value": "#F7F7F8"
+  },
+  "d-ctt-text-primary-fg": {
+    "$type": "color",
+    "$value": "#5C6770"
+  },
+  "fb-fg": {
+    "$type": "color",
+    "$value": "#22272A"
+  },
+  "fb-warning-bg": {
+    "$type": "color",
+    "$value": "#FADB9E"
+  },
+  "fb-warning-line": {
+    "$type": "color",
+    "$value": "#F5B83D"
+  },
+  "inp-bg": {
+    "$type": "color",
+    "$value": "#FFFFFF"
+  },
+  "inp-clear-fg": {
+    "$type": "color",
+    "$value": "#9DA7AF"
+  },
+  "inp-line": {
+    "$type": "color",
+    "$value": "#C7CDD1"
+  },
+  "inp-primary-fg": {
+    "$type": "color",
+    "$value": "#22272A"
+  },
+  "inp-warning-line": {
+    "$type": "color",
+    "$value": "#C2850A"
+  },
+  "paragraph": {
+    "$type": "typography",
+    "$value": {
+      "fontSize": "14px",
+      "fontFamily": "Segoe UI Variable",
+      "fontWeight": 400,
+      "lineHeight": 1.5,
+      "letterSpacing": "0px"
+    }
+  },
+  "text-body": {
+    "$type": "color",
+    "$value": "#212529"
+  },
+  "text-secondary": {
+    "$type": "color",
+    "$value": "#6C757D"
+  }
+}
