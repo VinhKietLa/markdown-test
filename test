@@ -15,6 +15,11 @@
       "letterSpacing": "0px"
     }
   },
+  "Cloudy": {
+    "$type": "color",
+    "$value": "{app-regular-line}",
+    "$description": "test github json export"
+  },
   "H1": {
     "$type": "typography",
     "$value": {
@@ -80,6 +85,11 @@
       "$type": "color",
       "$value": "#FFFFFF"
     }
+  },
+  "Toothless": {
+    "$type": "color",
+    "$value": "{Background.Dark}",
+    "$description": "Testing JSON export again for github sync output"
   },
   "act-bg": {
     "$type": "color",
