@@ -193,6 +193,14 @@
       "letterSpacing": "0px"
     }
   },
+  "test1": {
+    "$type": "color",
+    "$value": "#BF3F3F"
+  },
+  "test2": {
+    "$type": "color",
+    "$value": "{test1}"
+  },
   "text-body": {
     "$type": "color",
     "$value": "#212529"
